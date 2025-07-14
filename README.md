@@ -15,49 +15,9 @@
 
 ## 👨‍🎓 About Me
 
-🎓 I'm Kaushik Prajapati, currently in my final year at **Dhirubhai Ambani University (formerly DA-IICT)**, Gandhinagar, Gujarat.  
-📘 I'm pursuing **B.Tech (Hons.) in ICT** with a **minor in Computational Science**.
+I'm Kaushik Prajapati, a final-year B.Tech (Hons.) student at **DA-IICT**, Gandhinagar, majoring in ICT with a minor in **Computational Science**. I’m deeply interested in **Machine Learning**, **Deep Learning**, **Natural Language Processing**, and currently exploring **Generative AI**. I’ve worked on research-oriented projects during internships and taken academic courses in **Statistics** and **ML**.
 
-🔍 My academic and research interests include:
-- **Statistics**
-- **Machine Learning**
-- **Deep Learning**
-- **Natural Language Processing (NLP)**
-- **Generative AI**
-
-I’ve taken academic courses in Statistics and Machine Learning, and worked on projects involving NLP and deep learning during a research internship. I'm currently exploring **Generative AI** and always eager to learn more.
-
-💡 I also have a strong foundation in:
-- **Data Structures and Algorithms (DSA)**
-- **Object-Oriented Programming (OOP)**
-- **Operating Systems (OS)**
-- **Computer Networks (CN)**
-- **Database Management Systems (DBMS)**
-
----
-
-## 🔭 What I'm Working On
-
-- Advancing my knowledge in **Deep Learning** and **NLP**
-- Exploring **Generative AI** techniques
-- Enhancing problem-solving skills via **LeetCode** and **Codeforces**
-
----
-
-## 🌱 Currently Learning
-
-- Advanced topics in **Deep Learning**
-- NLP model architectures and pipelines
-- Applications of **Statistical Thinking** in ML
-
----
-
-## 🧠 Core Strengths
-
-- Applying ML/DL models to real-world problems
-- Understanding and implementing NLP pipelines
-- Strong grasp of Statistical foundations
-- Solid CS fundamentals and coding skills
+Alongside this, I have a strong grasp of core CS subjects like **DSA**, **OOP**, **OS**, **CN**, and **DBMS**, and I'm consistently honing my problem-solving skills on platforms like **LeetCode** and **Codeforces**. I enjoy applying ML/DL to real-world problems and understanding end-to-end NLP pipelines.
 
 ---
 
@@ -103,7 +63,6 @@ I’ve taken academic courses in Statistics and Machine Learning, and worked on 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="40" height="40"/>
 </p>
-
 
 ---
 
